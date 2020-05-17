@@ -6,3 +6,4 @@ Goal of this app is to recommend course of action based on various parameters re
 
 
 ## Pending activities
+    Implement remaining workflow
